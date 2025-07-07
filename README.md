@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hello World! I'm Brama
 
-![Brama](img/headerImage.png)
 
 
 ## 🌐 Socials:
