@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World! I'm Brama
+Hello World! I am a back-end developer with knowledge and experience in building and managing web-based database systems. I understand the end-to-end development process and am capable of integrating front-end and back-end to create efficient and quality solutions.
 
 
 
