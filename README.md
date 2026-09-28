@@ -52,11 +52,8 @@ I have experience building end-to-end applications and developing full-stack sol
 <br>
 <table align="center">
   <tr>
-    <td align="center" valign="middle">
+    <td align="center" valign="middle" colspan="2">
       <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=BramaAntoro&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    </td>
-    <td align="center" valign="middle">
-      <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=BramaAntoro&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     </td>
   </tr>
   <tr>
