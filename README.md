@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World! I am a back-end developer with knowledge and experience in building and managing web-based database systems. I understand the end-to-end development process and am capable of integrating front-end and back-end to create efficient and quality solutions.
+I have experience building end-to-end applications and developing full-stack solutions using Next.js (TypeScript), REST APIs with Node.js (Express), and PHP (Laravel). I am pursuing a professional career as a Full-Stack Developer to build efficient, innovative, and scalable systems.
 
 
 
@@ -16,40 +16,55 @@ Hello World! I am a back-end developer with knowledge and experience in building
 ## 💻 Tech Stack
 
 ### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React.js](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React.js](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+### 🚀 Full-Stack Development
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🗄️ Database & Cloud
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🛠 Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### 📐 System Modeling
-![UML](https://img.shields.io/badge/UML-diagrams-lightgrey?style=for-the-badge) 
-![ERD](https://img.shields.io/badge/ERD-modeling-lightgrey?style=for-the-badge) 
-
-### 📚 Other Skills
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![n8n](https://img.shields.io/badge/n8n-%23F05A28.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![UML](https://img.shields.io/badge/UML-diagrams-lightgrey?style=for-the-badge)
+![ERD](https://img.shields.io/badge/ERD-modeling-lightgrey?style=for-the-badge)
 
 
+###
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BramaAntoro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BramaAntoro&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BramaAntoro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=BramaAntoro&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    </td>
+    <td align="center" valign="middle">
+      <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=BramaAntoro&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=BramaAntoro&count_private=true&show_icons=true&theme=react&rank_icon=default&border_radius=10" alt="readme stats rank" />
+    </td>
+    <td align="center" valign="middle">
+      <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=BramaAntoro&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    </td>
+  </tr>
+</table>
